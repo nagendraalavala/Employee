@@ -3,7 +3,6 @@ package com.practice.employee.Controller;
 import com.practice.employee.Entity.employeeEntity;
 import com.practice.employee.Service.employeeServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
